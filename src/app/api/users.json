@@ -1,0 +1,22 @@
+[
+   {
+      "id": "1",
+      "fullName": "John Lennon",
+      "username": "jlennon"
+   },
+   {
+      "id": "2",
+      "fullName": "Ringo Starr",
+      "username": "rstarr"
+   },
+   {
+      "id": "3",
+      "fullName": "George Harrison",
+      "username": "gharrison"
+   },
+   {
+     "id": "4",
+     "fullName": "Paul McCartney",
+     "username": "pmccartney"
+   }
+]
